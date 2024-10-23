@@ -16,5 +16,6 @@
       "outputs": ["{workspaceRoot}/dist/test-results"]
     }
   },
-  "plugins": ["@nx-dotnet/core"]
+  "plugins": ["@nx-dotnet/core"],
+  "nxCloudId": "6719590d16b82b7facf1a01d"
 }
