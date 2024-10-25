@@ -10,9 +10,9 @@ export default defineConfig({
   },
   integrations: [
     starlight({
-      title: 'dotnet-monorepo',
+      title: 'giftcard-monorepo',
       social: {
-        github: 'https://github.com/froko/dotnet-monorepo',
+        github: 'https://github.com/froko/giftcard-monorepo',
       },
       sidebar: [
         {
