@@ -18,7 +18,7 @@
     "test": "nx run-many -t test"
   },
   "devDependencies": {
-    "@nx-dotnet/core": "^2.4.5",
+    "@nx-dotnet/core": "^3.0.0",
     "@nx/js": "20.0.5",
     "nx": "^20.0.5",
     "prettier": "^3.3.3"
